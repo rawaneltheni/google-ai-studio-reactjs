@@ -1,0 +1,7 @@
+{
+  "name": "Haweya - Premium Advertising & Printing",
+  "description": "A bilingual premium advertising and printing services platform featuring a direct order system, customer dashboard, and admin panel.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
